@@ -1,32 +1,55 @@
-# 🚁 Drone Product Landing Page – DJI Mavic 4 Pro
+# 📰 The UX Review Blog
 
-A **modern product landing page** for the **DJI Mavic 4 Pro** drone. This front-end project is designed to simulate a professional e-commerce product page, with interactive elements, comparisons, reviews, and accessory recommendations.
-
+A modern, responsive front-end blog layout focused on **User Experience (UX)** design.  
+Built entirely with **HTML** and **CSS**, featuring a minimal, elegant interface and mobile-friendly navigation.
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-- 🔝 Sticky navigation with smooth anchor scrolling
-- 🎯 Hero section with promotional pricing and product badges
-- 📊 Detailed comparison table vs competitor drones
-- ⭐ Customer rating breakdown and verified reviews
-- 🧩 Accessory & related product section
-- 💡 Built with **HTML5**, **CSS3**, and **Font Awesome**
+- 📱 **Responsive design** — works seamlessly across desktop and mobile  
+- 🎨 **Clean layout** with well-structured sections  
+- 🧭 **Mobile navigation menu** with smooth slide-in animation  
+- 🔍 **Section-based navigation** (Hero, Latest Articles, Authors, Community)  
+- 🌑 **Modern typography and spacing system**  
+- ⚙️ **Font Awesome icons** for visual enhancement  
 
+---
 
+## 🧩 Sections Overview
+
+- **Header** — logo, navigation menu, and subscribe button  
+- **Hero Section** — main introduction area  
+- **Latest Articles** — preview of the latest UX articles  
+- **Meet the Authors** — highlights of contributing authors  
+- **Join the Rebellion** — community and subscription call-to-action  
+- **Footer** — minimal closing section
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Description |
+|------|--------------|
+| **HTML5** | Markup and structure |
+| **CSS3** | Styling and responsive layout |
+| **Font Awesome** | Icon library |
 ---
 
 ## 📸 Screenshots
 
-### 🖼️ Hero Section  
+### 🖼️ HERO SECTION
 ![Hero Section](./screenshots/screenshot-hero.png)
 
-### 🖼️ Specifications Comparison  
-![Specifications Table](./screenshots/screenshot-specs.png)
+### 🖼️ LATEST ARTICLES  
+![Latest Articles](./screenshots/screenshot-latest-article.png)
 
-### 🖼️ Reviews & Ratings  
-![Customer Reviews](./screenshots/screenshot-reviews.png)
+### 🖼️ MEET THE AUTHORS 
+![Meet The Authors](./screenshots/screenshot-authors.png)
 
-### 🖼️ Related Products  
-![Related Products](./screenshots/screenshot-related-products-footer.png)
+### 🖼️ JOIN THE REBELLION 
+![Join The Rebellion](./screenshots/screenshot-rebellion.png)
+
+### 🖼️ FOOTER
+![Footer](./screenshots/screenshot-footer.png)
+
