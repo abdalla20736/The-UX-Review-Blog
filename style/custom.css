@@ -1,0 +1,142 @@
+.flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.gap-4 {
+  gap: 16px;
+}
+
+.gap-8 {
+  gap: 32px;
+}
+
+.gap-16 {
+  gap: 64px;
+}
+
+.padding-section {
+  padding: 28px;
+}
+
+.border-2 {
+  border: 2px solid #000000;
+}
+
+.brutal-border {
+  border: 4px solid #000000;
+}
+
+.rounded {
+  border-radius: 1rem;
+}
+
+.brutal-shadow {
+  box-shadow: 6px 6px #000000;
+}
+
+.brutal-shadow-xs {
+  box-shadow: 3px 3px #000000;
+}
+
+.brutal-shadow-sm {
+  box-shadow: 4px 4px #000000;
+}
+.-rotate-1 {
+  rotate: -1deg;
+}
+.rotate-1 {
+  rotate: 1deg;
+}
+
+.-rotate-2 {
+  rotate: -2deg;
+}
+.-rotate-12 {
+  rotate: -12deg;
+}
+.rotate-45 {
+  rotate: 45deg;
+}
+.cl-red {
+  color: #fb2c36;
+}
+.cl-green {
+  color: #7bf1a8;
+}
+
+.cl-violet {
+  color: #fda5d5;
+}
+
+.cl-yellow {
+  color: #ffdf20;
+}
+.cl-blue {
+  color: #2b7fff;
+}
+
+.cl-purple {
+  color: #ad46ff;
+}
+
+.cl-white {
+  color: white;
+}
+
+.cl-black {
+  color: #000000;
+}
+.bg-green {
+  background-color: #7bf1a8;
+}
+
+.bg-green-dark {
+  background-color: #00c950;
+}
+
+.bg-violet {
+  background-color: #fda5d5;
+}
+
+.bg-yellow {
+  background-color: #ffdf20;
+}
+.bg-blue {
+  background-color: #2b7fff;
+}
+
+.bg-purple {
+  background-color: #ad46ff;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-red-500 {
+  background-color: oklch(63.7% 0.237 25.331);
+}
