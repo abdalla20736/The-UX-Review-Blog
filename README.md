@@ -3,7 +3,7 @@
 A modern, responsive front-end blog layout focused on **User Experience (UX)** design.  
 Built entirely with **HTML** and **CSS**, featuring a minimal, elegant interface and mobile-friendly navigation.
 
-**Live demo:** [https://the-ux-review-blog-sooty.vercel.app/](https://the-ux-review-blog-sooty.vercel.app/)
+**Live demo:** [https://the-ux-review-blog.netlify.app/](https://the-ux-review-blog.netlify.app/)
 ---
 
 ## ✨ Features
